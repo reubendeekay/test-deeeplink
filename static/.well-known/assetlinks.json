@@ -2,7 +2,7 @@
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
-      "namespace": "android_app",
+      "namespace": "com.daride.passenger_app",
       "package_name": "com.daride.passenger_app",
       "sha256_cert_fingerprints": [
         "4C:7D:AA:93:A9:DC:0B:C2:49:90:6A:49:E3:37:70:54:49:DC:68:FA:D0:1A:63:9B:91:6F:5B:A1:30:B1:1D:69"
